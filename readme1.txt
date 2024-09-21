@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 We are the people
 
 We share ineach other
@@ -72,3 +73,19 @@ I can't do well when I think
 You'regonna leave me, butI know I try
 Are you gonna leave
 menow?Can'tyoube believing now?
+=======
+Moon river
+
+Moon river
+wider than a mile,
+I'm crossing you in style some day.
+Old dream maker, you, heart breaker,
+Wherever you're going I'm going your way.
+
+Two drifters off to see the world;
+There's such a lot of world to see.
+We're after the same rainbow's end, 1
+Waiting 'round the bend,
+My huckleberry friend,
+Moon river and me.
+>>>>>>> test
