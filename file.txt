@@ -1,2 +1,4 @@
-Hello Git
-123
+num1 = int(input("Enter the number "))
+num2 = int(input("Enter the number "))
+rez=num1*num2+num2**3+num1
+print('your result - ', rez)

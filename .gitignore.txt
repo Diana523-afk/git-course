@@ -1,0 +1,2 @@
+details.txt
+file2.txt
