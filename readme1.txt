@@ -1,1 +1,23 @@
-Здравствуйте, как поживаете?
+Samba da benção
+
+
+É melhor ser alegre que ser triste
+Alegria é a melhor coisa que existe
+É assim como a luz no coração
+Mas pra fazer um samba com beleza
+É preciso um bocado de tristeza
+Senão se faz um samba não
+
+Fazer samba não é contar piada
+E quem faz samba assim não é de nada
+O bom samba é uma forma de oração
+Porque o samba é a tristeza que balança
+E a tristeza tem sempre uma esperança
+De um dia não ser mais triste não
+
+Põe um pouco de amor numa cadência
+E vai ver que ninguém no mundo vence
+A beleza que tem um samba não
+Porque o samba nasceu lá na Bahia
+E se hoje ele é branco na poesia
+Ele é negro demais no coração
