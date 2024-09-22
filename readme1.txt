@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 We are the people
 
 We share ineach other
@@ -88,4 +88,5 @@ We're after the same rainbow's end, 1
 Waiting 'round the bend,
 My huckleberry friend,
 Moon river and me.
->>>>>>> test
+
+Executor: Empire of The Sun
